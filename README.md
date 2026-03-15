@@ -1,2 +1,2 @@
 # Beginner-code-with-Question
-Question solved while building logic
+Questions to recognize pattern and logic
